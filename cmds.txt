@@ -11,3 +11,7 @@ git ls-files -s
 
 git config --global --list
 
+git help    # list basic porcelain cmds
+man git
+git help config
+
