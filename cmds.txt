@@ -9,3 +9,5 @@ git push -u origin master
 
 git ls-files -s
 
+git config --global --list
+
